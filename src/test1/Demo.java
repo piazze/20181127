@@ -1,5 +1,8 @@
 package test1;
 
+/**
+ static 关键字修饰属性和方法
+*/
 public class Demo {
 
 	public int a = 10; //成员变量，实例变量
