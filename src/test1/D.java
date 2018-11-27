@@ -6,5 +6,8 @@ package test1;
  *
  */
 public interface D {
+	/**
+	 * 方法d
+	 */
 	public void d();
 }
